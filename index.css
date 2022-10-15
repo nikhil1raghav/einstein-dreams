@@ -162,8 +162,8 @@ img
 
 #caption #title
 {
-  font-weight: bold;
-  font-size: 3em;
+  font-weight: normal;
+  font-size: 1em;
 }
 
 #caption #desc
